@@ -49,6 +49,7 @@
 //    "sloccount": "",
 //    "tree": "",
 //    "wget": "",
+    "imagemagick": "",
     "reattach-to-user-namespace": "",
     "redis": "",
     "emacs": "",
