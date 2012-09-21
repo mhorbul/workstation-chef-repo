@@ -40,15 +40,24 @@
   },
   // Packages that are installed by Homebrew.
   "brew_packages": {
-    "ack": "",
-    "coreutils": "",
-    "md5sha1sum": "",
-    "openvpn": "",
-    "parallel": "",
-    "pstree": "",
-    "sloccount": "",
-    "tree": "",
-    "wget": ""
+//    "ack": "",
+//    "coreutils": "",
+//    "md5sha1sum": "",
+//    "openvpn": "",
+//    "parallel": "",
+//    "pstree": "",
+//    "sloccount": "",
+//    "tree": "",
+//    "wget": "",
+    "reattach-to-user-namespace": "",
+    "redis": "",
+    "emacs": "",
+    "mysql": "",
+    "tmux": "",
+    "git": "",
+    "tig": "",
+    "zsh": "",
+    "node": ""
   },
   "dirs": [
     // Array of directories that are created in $HOME. Create parent
